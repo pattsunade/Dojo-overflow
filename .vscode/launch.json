@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-NinjaoverflowApplication<ninjaoverflow>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.patriciadelgado.ninjaoverflow.NinjaoverflowApplication",
+            "projectName": "ninjaoverflow",
+            "args": ""
+        }
+    ]
+}
